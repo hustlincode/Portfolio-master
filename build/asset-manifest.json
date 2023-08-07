@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio-master/static/css/main.324ad3ac.css",
+    "main.js": "/Portfolio-master/static/js/main.a438f5bb.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio-master/static/js/787.1ed0c42c.chunk.js",
+    "static/media/avatar.svg": "/Portfolio-master/static/media/avatar.8d0a9f1785f5cc9702a39fda52cd6479.svg",
+    "static/media/Fideljon_Magat-BSIT_PSAU.pdf": "/Portfolio-master/static/media/Fideljon_Magat-BSIT_PSAU.073c107995406a07f4f5.pdf",
+    "static/media/home-main.svg": "/Portfolio-master/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Portfolio-master/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/slfreemed.png": "/Portfolio-master/static/media/slfreemed.284db7a560ebb80ca592.png",
+    "static/media/home-bg.jpg": "/Portfolio-master/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/Portfolio-master/static/media/logo.97870dc45606920e9330.png",
+    "static/media/pre.svg": "/Portfolio-master/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Portfolio-master/index.html",
+    "main.324ad3ac.css.map": "/Portfolio-master/static/css/main.324ad3ac.css.map",
+    "main.a438f5bb.js.map": "/Portfolio-master/static/js/main.a438f5bb.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio-master/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.324ad3ac.css",
+    "static/js/main.a438f5bb.js"
+  ]
+}
